@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## What is yzbtdiy？
 
-&emsp;&emsp;网名 **yzbtdiy** 诞生于 2014 年, 是由中文 “**与众不同**” 拼音的首字母和英文 “**Do it youself**” 的首字母组成, 意思是 **做与众不同的自己**, 当然我知道一半拼音一半英文的命名方式比较奇怪, 但是~，我有了一个全网唯一的用户名
+&emsp;&emsp;网名 **yzbtdiy** 于 2014 年开始使用, 是由中文 “**与众不同**” 拼音的首字母和英文 “**Do it youself**” 的首字母组成, 意思是 **做与众不同的自己**, 这是一个全网唯一的用户名.
 
 ## Who am I？
 
@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 * 微度社恐患者, 不喜欢所谓的记录生活, 不喜欢 QQ空间, 微博, 朋友圈等社交网络
 
 * 目前常在酷安潜水, 酷友们可以在酷安 @yzbtdiy, 如果使用电报, 也可以电报 @yzbtdiy
+
+[![yzbtddiy's github stats](https://github-readme-stats.vercel.app/api?username=yzbtdiy)](https://github.com/anuraghazra/github-readme-stats)
