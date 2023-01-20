@@ -27,4 +27,4 @@ Here are some ideas to get you started:
 
 * 目前常在酷安潜水, 酷友们可以在酷安 @yzbtdiy, 如果使用电报, 也可以电报 @yzbtdiy
 
-[![yzbtddiy's github stats](https://github-readme-stats.vercel.app/api?username=yzbtdiy)](https://github.com/anuraghazra/github-readme-stats)
+[![yzbtdiy's GitHub stats](https://github-readme-stats.vercel.app/api?username=yzbtdiy)](https://github.com/anuraghazra/github-readme-stats)
