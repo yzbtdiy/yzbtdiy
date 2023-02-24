@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 * 微度社恐患者, 不喜欢所谓的记录生活, 不喜欢 QQ空间, 微博, 朋友圈等社交网络
 
-* 目前常在酷安潜水, 酷友们可以在酷安 @yzbtdiy, 如果使用电报, 也可以电报 @yzbtdiy
+* 野生码农, 面向兴趣编程, 目前在学习 Golang
 
 [![yzbtdiy's GitHub stats](https://github-readme-stats.vercel.app/api?username=yzbtdiy)](https://github.com/anuraghazra/github-readme-stats)
