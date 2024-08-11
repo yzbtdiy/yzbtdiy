@@ -21,10 +21,10 @@ Here are some ideas to get you started:
 
 ## Who am I？
 
-* 资深宅男, 开源爱好者, Google 党, 爱好装系统, 刷机, 追番, 收集各种绿化破解软件, 喜欢极简风格
+* 开源爱好者, 野生码农, 面向兴趣编程, 目前在学习 Golang, Python, Typescript 等, 如果遇到合适的场会尝试rust和zig
 
 * 微度社恐患者, 不喜欢所谓的记录生活, 不喜欢 QQ空间, 微博, 朋友圈等社交网络
 
-* 野生码农, 面向兴趣编程, 目前在学习 Golang
+* 高龄宅男, 喜欢二次元, 日常追番, 看国漫, 平时玩弱社交的二次元手游原神, 绝区零
 
 [![yzbtdiy's GitHub stats](https://github-readme-stats.vercel.app/api?username=yzbtdiy)](https://github.com/anuraghazra/github-readme-stats)
