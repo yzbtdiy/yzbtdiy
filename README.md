@@ -21,10 +21,12 @@ Here are some ideas to get you started:
 
 ## Who am I？
 
-* 开源爱好者, 野生码农, 面向兴趣编程, 目前在学习 Golang, Python, Typescript 等, 如果遇到合适的场会尝试rust和zig
+* 开源爱好者, 野生码农, GitHub Copilot辅助编程(Claude 3.7确实强), 平时随缘写点小工具
 
 * 微度社恐患者, 不喜欢所谓的记录生活, 不喜欢 QQ空间, 微博, 朋友圈等社交网络
 
-* 技术宅, 喜欢二次元, 追番, 看国漫, 平时玩弱社交的二次元手游原神, 绝区零 
+* 技术宅, 喜欢二次元, 追番, 看国漫, 游戏目前只玩原神
+
+* 计划做个有特点的 AIVtuer ...
 
 [![yzbtdiy's GitHub stats](https://github-readme-stats.vercel.app/api?username=yzbtdiy)](https://github.com/anuraghazra/github-readme-stats)
